@@ -17,7 +17,7 @@ st.markdown(
         font-size: 3em;
     }
     .description {
-        font-size: 1.5em;
+        font-size: 1.9em;
     }
     .chat-message {
         font-size: 1.5em; /* Adjust this value to change the font size */
